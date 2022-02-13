@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// ignore: import_of_legacy_library_into_null_safe
+
 import 'package:google_fonts/google_fonts.dart';
 
 Color orange = const Color(0xffF05A22);
